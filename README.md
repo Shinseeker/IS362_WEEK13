@@ -1,6 +1,6 @@
 # IS362_WEEK13
 
-- First study the dataset and the associated description of the data (i.e. “data dictionary”). You may need to look around a bit, but it’s there! 
+-First study the dataset and the associated description of the data (i.e. “data dictionary”). You may need to look around a bit, but it’s there! 
 
 -Create a pandas DataFrame with a subset of the columns in the dataset. You should include the column that indicates edible or poisonous, the column that includes odor, and at least one other column of your choosing. 
 
